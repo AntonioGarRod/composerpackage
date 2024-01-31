@@ -1,5 +1,5 @@
 {
-  "name": "AntonioGarRod/ComposerPackage",
+  "name": "antoniogarrod/composerpackage",
   "description": "Composer Package test repository",
   "type": "library",
   "require": {
