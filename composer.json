@@ -1,0 +1,17 @@
+{
+  "name": "AntonioGarRod/ComposerPackage",
+  "description": "Composer Package test repository",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "antoniogr",
+      "email": "antoniogarciarodriguez@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
+
