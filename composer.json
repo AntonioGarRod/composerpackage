@@ -1,7 +1,7 @@
 {
   "name": "antoniogarrod/composerpackage",
   "description": "Composer Package test repository",
-  "type": "library",
+  "type": "allfunds-package",
   "require": {
     "php": ">=5.3.0"
   },
